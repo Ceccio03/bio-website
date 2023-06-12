@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+body{
+    background-color: silver;
+}
+
+#paragrafo1{
+    font-size: x-large;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;
+    color: dimgrey;
+}
+
+#title{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: red;
+    color: white;
+}
+
+#contacts{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: crimson;
+    color: white;
+}
